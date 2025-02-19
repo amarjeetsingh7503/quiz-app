@@ -28,3 +28,5 @@ Follow these steps to set up the project on your local machine:
 ```sh
 git clone https://github.com/yourusername/quiz-platform.git
 cd quiz-platform
+npm install
+npm run dev
