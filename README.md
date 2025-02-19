@@ -1,5 +1,7 @@
 # **Quiz Platform** 🎯  
 
+## **Vercel Live Link:** https://quiz-app-eight-psi-67.vercel.app/
+
 A **React-based quiz platform** where users can attempt quizzes, get **instant feedback**, and track their **progress**.  
 
 ## **🚀 Features**
