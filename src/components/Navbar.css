@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: aliceblue;
+}
+
+.logo {
+    color: black;
+    padding: 20px;
+    font-size: 40px;
+    font-weight: 600;
+    text-align: center ;
+}
